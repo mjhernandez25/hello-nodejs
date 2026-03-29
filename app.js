@@ -1,2 +1,2 @@
-//Test 2
-console.log("Hello World!\n");
+//Notas
+console.log("Hola Mundo\n");
